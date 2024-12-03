@@ -1,3 +1,3 @@
 # password-generator
 
-https://user-vishnu.github.io/password-generator/
+https://IncarnatorX.github.io/password-generator/
